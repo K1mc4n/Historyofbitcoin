@@ -1,1 +1,1 @@
-FOLLOW ACCOUNT : https://warpcast.com/watchcoin
+WARPCAST URL ACCOUNT : https://warpcast.com/watchcoin
