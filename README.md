@@ -1,4 +1,4 @@
-# README: History of Bitcoin  
+# README: Bitcoin Roadmap 
 
 ## Introduction  
 Bitcoin is a decentralized digital currency created in 2008 by an unknown individual or group of individuals using the pseudonym **Satoshi Nakamoto**. It was introduced as open-source software in January 2009, providing an alternative to traditional financial systems by enabling peer-to-peer transactions without the need for a central authority or intermediary.
